@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br" <meta charset="UTF-8">
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>itruckr </title>
+    <link rel="site matheus" href='assets/css/style.css'>
+
+<head>
+
+<body>
+
+
+
+
+
+
+
+</body>
+
+<style>
+    body {
+        background: rgb(0, 0, 0);
+ 
+
+
+        
+  }
+  
+  
+  
+  
+  
+  
+  
+        font-family: sans-serif;
+    h1 {
+        color: #fefeff
+    }
+    .btn{
+        padding: 10px;
+        width:50px;
+        color:#ffff;
+      
+        border: 1000px;
+    border-color: black;
+    }
+</style>
+
+
+
